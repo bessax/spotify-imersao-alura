@@ -20,4 +20,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Live Server](https://www.freecodecamp.org/portuguese/news/live-server-no-vs-code-como-atualizar-automaticamente-o-seu-navegador-com-essa-extensao-simples/) - Live Server
 
 ## ✒️ Colaborador(as/es)
-- **André Bessa da Silva** - _Desenvolvedor_  - [bessax](https://github.com/bessax)
+- **André Bessa** - _Desenvolvedor_  - [bessax](https://github.com/bessax)
